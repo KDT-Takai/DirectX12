@@ -41,7 +41,7 @@
     <ClInclude Include="Engine\Dx12Types.hpp">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="App\Utility1\Log\Log.hpp">
+    <ClInclude Include="Engine\Log.hpp">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
