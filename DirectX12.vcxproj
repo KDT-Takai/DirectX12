@@ -24,11 +24,11 @@
     <ClCompile Include="Engine\Window\Window.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="App\Utility1\Log\Log.hpp" />
     <ClInclude Include="Engine\Direct3D\Direct3D.hpp" />
     <ClInclude Include="Engine\Dx12Types.hpp" />
     <ClInclude Include="Engine\Graphics\Vertex.hpp" />
     <ClInclude Include="Engine\Singleton\Singleton.hpp" />
-    <ClInclude Include="Engine\Utility1\Log\Log.hpp" />
     <ClInclude Include="Engine\Window\Window.hpp" />
   </ItemGroup>
   <ItemGroup>
