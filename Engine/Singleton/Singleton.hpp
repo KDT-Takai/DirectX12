@@ -1,7 +1,7 @@
 #pragma once
 #include <cassert>
 #include <utility>
-#include "../Utility1/Log/Log.hpp"
+#include "../Log.hpp"
 
 #define DECLARE_SINGLETON(Type)               \
     friend class Singleton<Type>;            \
