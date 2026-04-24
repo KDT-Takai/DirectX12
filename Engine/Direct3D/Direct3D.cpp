@@ -1,5 +1,5 @@
 #include "Direct3D.hpp"
-#include "../Utility/Log/Log.hpp"
+#include "../Log.hpp"
 
 Direct3D::Direct3D()
 {

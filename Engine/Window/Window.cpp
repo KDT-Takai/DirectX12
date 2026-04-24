@@ -1,7 +1,7 @@
 #include "Window.hpp"
 #include <tchar.h>
 
-#include "../Utility/Log/Log.hpp"
+#include "../Log.hpp"
 
 Window::Window()
 {
