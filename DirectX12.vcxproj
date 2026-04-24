@@ -28,7 +28,7 @@
     <ClInclude Include="Engine\Dx12Types.hpp" />
     <ClInclude Include="Engine\Graphics\Vertex.hpp" />
     <ClInclude Include="Engine\Singleton\Singleton.hpp" />
-    <ClInclude Include="Engine\Utility\Log\Log.hpp" />
+    <ClInclude Include="Engine\Utility1\Log\Log.hpp" />
     <ClInclude Include="Engine\Window\Window.hpp" />
   </ItemGroup>
   <ItemGroup>
